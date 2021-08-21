@@ -1,6 +1,11 @@
+// Implementation of a Singly-LinkedList
+
+package LinkedList;
+
 class Node {
     public int data;
     public Node next;
+
 
     public void showNodeData() {
         System.out.print(" [" + data + "] ");

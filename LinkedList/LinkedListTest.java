@@ -1,6 +1,7 @@
 /* Putting the SinglyLinkedList Implementation through it's paces,
    testing all of the methods to make sure they are doing what I
    mean them to */
+package LinkedList;
 
 public class LinkedListTest {
 
